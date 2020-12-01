@@ -15,9 +15,8 @@ public class mv {
 	this.id = id;
 	this.username = username ;
 	this.password = password;
-	this.sex = sex;
-	this.love = love;
+	
 
 	}
-	77777777777777
+	
 }
